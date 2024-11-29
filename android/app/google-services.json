@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1004176701320",
+    "firebase_url": "https://smarttemp-59bba-default-rtdb.firebaseio.com",
+    "project_id": "smarttemp-59bba",
+    "storage_bucket": "smarttemp-59bba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004176701320:android:f8b194499aa1b7fe11ac3d",
+        "android_client_info": {
+          "package_name": "com.example.smart_temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LWLPkZxvHFEcwjg3WQNrso8CFlNuuFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
